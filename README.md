@@ -12,7 +12,7 @@
 
 <h2>A Few Quick Facts</h2>
 <ul>
-<li>💻 I’m currently working on the desktop version of my latest app, <a href="https://github.com/AidanFournier/justice">Justice</a> and my <a href="https://github.com/AidanFournier/AidanFournier.github.io">Portfolio</a>.</li>
+<li>💻 I’m currently in the planning stages of Troupe, which will be built using Node.js and React.</li>
 <li>🧐 I'm reviewing JavaScript with <strong><a href="https://javascript30.com/">JavaScript30</a></strong> and learning more about <strong><a href="https://www.udemy.com/course/testing-ruby-with-rspec/">testing Ruby with RSpec.</a></strong></li>
 <li>🎓 I'm a graduate of the highly-esteemed <a href="https://www.lewagon.com/tokyo/web-development-course/part-time">Le Wagon Tokyo</a>.</li>
 <li>🌏 Toronto 🇨🇦 -> Qingdao 🇨🇳 -> Tokyo 🇯🇵</li>
