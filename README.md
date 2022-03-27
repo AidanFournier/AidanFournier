@@ -12,9 +12,9 @@
 
 <h2>A Few Quick Facts</h2>
 <ul>
-<li>💻 I’m currently in the planning stages of Troupe, which will be built using Node.js and React.</li>
-<li>🧐 I'm reviewing JavaScript with <strong><a href="https://javascript30.com/">JavaScript30</a></strong> and learning more about <strong><a href="https://www.udemy.com/course/testing-ruby-with-rspec/">testing Ruby with RSpec.</a></strong></li>
-<li>🎓 I'm a graduate of the highly-esteemed <a href="https://www.lewagon.com/tokyo/web-development-course/part-time">Le Wagon Tokyo</a>.</li>
+<li>💻 I’m currently working with a team of 5 great developers on Troupe, which is being built with Node.js and React.</li>
+<li>🧐 I'm also studying React - if you're interested too, I really like <a href="https://scrimba.com/learn/learnreact">this course</a> by Scrimba.</li>
+<li>🎓 I'm a graduate of <a href="https://www.lewagon.com/tokyo/web-development-course/part-time">Le Wagon Tokyo</a>.</li>
 <li>🌏 Toronto 🇨🇦 -> Qingdao 🇨🇳 -> Tokyo 🇯🇵</li>
 <!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li> -->
 </ul>
