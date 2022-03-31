@@ -12,7 +12,7 @@
 
 <h2>A Few Quick Facts</h2>
 <ul>
-<li>💻 I’m currently working with a team of 5 great developers on Troupe, which is being built with Node.js and React.</li>
+<li>💻 I’m currently working with a team of 5 great developers on Troupe, an app to help ease the stress of planning group trips. It is being built with Node.js and React.</li>
 <li>🧐 I'm also studying React - if you're interested too, I really like <a href="https://scrimba.com/learn/learnreact">this course</a> by Scrimba.</li>
 <li>🎓 I'm a graduate of <a href="https://www.lewagon.com/tokyo/web-development-course/part-time">Le Wagon Tokyo</a>.</li>
 <li>🌏 Toronto 🇨🇦 -> Qingdao 🇨🇳 -> Tokyo 🇯🇵</li>
