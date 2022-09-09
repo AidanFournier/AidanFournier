@@ -44,5 +44,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="25" height="25" />
  
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=AidanFournier&theme=tokyonight_duo&hide_border=true" alt="my-stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidanFournier&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="my-stats" /></p>
-<!-- <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidanFournier&show_icons=true&locale=en&layout=compact" alt="my-stats" /></p> -->
+<!-- <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidanFournier&show_icons=true&locale=en&layout=compact&langs_count=6" alt="my-stats" /></p> -->
 
