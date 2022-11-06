@@ -1,13 +1,12 @@
 <!--  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" /> -->
 
 <h2>Hey, it's Aidan!</h2>
-<p>I'm a fullstack web developer based in 🗼Tokyo🗼. I'm currently working on side projects and growing my range of skills. Check me out on:</p>
+<p>I'm a fullstack web developer based in 🗼Tokyo🗼. I'm currently working on side projects and growing my range of skills. Reach out on</p>
 
 <a href="https://www.linkedin.com/in/aidanfournier/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
 <a href="https://twitter.com/aidoufou"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a> 
-<a href="https://www.instagram.com/aidoufou/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a> 
-<p>And reach me at: <strong>aidan.douglas.fournier@gmail.com</strong></p>
- 
+<p>Or send a message to <strong>aidan.douglas.fournier@gmail.com</strong></p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>A Few Quick Facts</h2>
 <ul>
 <li>💻 I’m currently working with a team of 5 great developers on Troupe, an app to help ease the stress of planning group trips. It is being built with Node.js and React.</li>
@@ -23,7 +22,7 @@
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p> -->
 
-<h2>Some Tools I Use</h2>
+<h2>My Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="ruby" width="25" height="25" />
