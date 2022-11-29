@@ -13,7 +13,6 @@
 <li>🧐 I'm also studying React - if you're interested too, I really like <a href="https://scrimba.com/learn/learnreact">this course</a> by Scrimba.</li>
 <li>🎓 I'm a graduate of <a href="https://www.lewagon.com/tokyo/web-development-course/part-time">Le Wagon Tokyo</a>.</li>
 <li>🌏 Toronto 🇨🇦 -> Qingdao 🇨🇳 -> Tokyo 🇯🇵</li>
-<!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li> -->
 </ul>
 
 <h2>My Tools</h2>
