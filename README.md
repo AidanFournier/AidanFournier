@@ -15,12 +15,6 @@
 <li>🌏 Toronto 🇨🇦 -> Qingdao 🇨🇳 -> Tokyo 🇯🇵</li>
 <!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li> -->
 </ul>
-<!-- <h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/introducing-spottr---your-spotify-stats-year-round">Introducing Spottr - Your Spotify Stats Year-Round — July 16, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/github1s---instantly-browse-projects-on-vscode-in-your-browser">Github1s - Instantly Browse Projects on VSCode in Your Browser ⚡ — February 10, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-2)">Extensions: Google Chrome's Soft Underbelly (Part 2) — February 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/extensions-google-chrome's-soft-underbelly-(part-1)">Extensions: Google Chrome's Soft Underbelly (Part 1) — January 07, 2021</a></li><li><a target="_blank" href="https://blog.stanleylim.me/finally-featured-on-producthunt---lessons-learned">Finally Featured on ProductHunt — Lessons Learned — November 18, 2020</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p> -->
 
 <h2>My Tools</h2>
 <p align="left">
