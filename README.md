@@ -36,7 +36,7 @@
  
 <p align="left">
 <span><img src="https://github-readme-streak-stats.herokuapp.com?user=AidanFournier&theme=tokyonight_duo&hide_border=true" alt="my-stats" /></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidanFournier&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&hide=css" alt="my-stats" /></span>
-</p>
+<!-- <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AidanFournier&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&hide=css" alt="my-stats" /></span>
+</p> -->
 
 
